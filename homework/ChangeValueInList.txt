@@ -1,0 +1,5 @@
+def removeUsingPop(list1):
+    if 'steph' in list1:
+        index = list1.index('steph')
+        list1[index] = 'Not steph'
+        return list1
