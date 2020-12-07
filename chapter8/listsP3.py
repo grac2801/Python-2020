@@ -173,6 +173,7 @@ if __name__ == "__main__":
     print(len(randomNumbers))
     
     print('updated')
+    print('updated again')
     
     
     
