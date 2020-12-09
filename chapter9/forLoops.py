@@ -1,5 +1,3 @@
-from ntpath import join
-
 #Date: Dec 7, 2020
 #ogracias
 #Current Module: chapter9.forLoops
